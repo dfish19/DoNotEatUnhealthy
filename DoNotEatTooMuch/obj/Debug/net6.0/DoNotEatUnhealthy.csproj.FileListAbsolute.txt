@@ -1,0 +1,15 @@
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\bin\Debug\net6.0\DoNotEatUnhealthy.exe
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\bin\Debug\net6.0\DoNotEatUnhealthy.deps.json
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\bin\Debug\net6.0\DoNotEatUnhealthy.runtimeconfig.json
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\bin\Debug\net6.0\DoNotEatUnhealthy.dll
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\bin\Debug\net6.0\DoNotEatUnhealthy.pdb
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.csproj.AssemblyReference.cache
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.AssemblyInfoInputs.cache
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.AssemblyInfo.cs
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.csproj.CoreCompileInputs.cache
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.dll
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\refint\DoNotEatUnhealthy.dll
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.pdb
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\DoNotEatUnhealthy.genruntimeconfig.cache
+C:\Users\dfish\Desktop\Repos\DoNotEatTooMuch\DoNotEatTooMuch\obj\Debug\net6.0\ref\DoNotEatUnhealthy.dll
